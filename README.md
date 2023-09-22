@@ -2,7 +2,7 @@
 ## Eu me chamo Iago"!
 - 🌱  Estou aprendendo
 
-<img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYu-uVvsLL_bG2bimwt_mhsBvTRctqQIB8Kxv0O7uLWye1iRfafBCGk4rvmOF_AR3Uggc&usqp=CAU" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-2048.png"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 -📫 Contatos:
 
