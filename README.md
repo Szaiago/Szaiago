@@ -1,5 +1,9 @@
  ### Bem vindo ao perfil do Iago 👨‍💻
 
+ - 🙋‍♂‍ Sobre mim:
+
+ Apaixonado por front-end, cada dia mais focado e interessado a aprender.
+
 - 🧑‍🚀 Desenvolvendo:
 
 [![Desenvolvendo](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
