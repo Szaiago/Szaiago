@@ -2,7 +2,7 @@
 
  - 🙋‍♂‍ Sobre mim:
 
- Apaixonado por front-end, cada dia mais focado e interessado a aprender.
+      Apaixonado por front-end, cada dia mais focado e interessado a aprender.
 
 - 🧑‍🚀 Desenvolvendo:
 
