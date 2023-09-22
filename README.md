@@ -1,6 +1,6 @@
 # 👋 Olá, Bem vindo ao perfil Szaiago.
 ## Eu me chamo Iago"!
-- 🌱  Domino
+- 👻  Domino
 
 <img loading="lazy" src="![image](https://github.com/Szaiago/Szaiago/assets/143181331/150a6f97-c54f-47f7-9e1f-0c23b3c3461c)
 "/>
