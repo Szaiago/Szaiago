@@ -2,7 +2,7 @@
 
  - 🙋‍♂‍ Sobre mim:
 
-      Apaixonado por front-end, cada dia mais focado e interessado a aprender.
+   Apaixonado por front-end, cada dia mais focado e interessado a aprender.
 
 - 🧑‍🚀 Desenvolvendo:
 
@@ -29,3 +29,5 @@
 [![Contato](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 
 ![Szaiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=dark)
+
+![Snake animation](https://github.com/Szaiago/Szaiago/blob/output/github-contribution-grid-snake.svg)
