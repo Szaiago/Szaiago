@@ -31,7 +31,7 @@
 [![Contato](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Szaiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&langs_count=7&theme=dark"/>
