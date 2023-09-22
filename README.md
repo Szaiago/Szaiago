@@ -9,3 +9,6 @@
 - 🧠 Aprendendo:
 
 [![Aprendendo](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
+[![Aprendendo](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
+[![Aprendendo](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
+[![Aprendendo](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
