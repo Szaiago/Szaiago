@@ -28,8 +28,6 @@
 [![Contato](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 [![Contato](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 
-
-![Snake animation](https://github.com/Szaiago/Szaiago/blob/output/github-contribution-grid-snake.svg)
 ![Szaiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=dark)
 
 
