@@ -2,7 +2,7 @@
 ## Eu me chamo Iago"!
 - 🌱  Domino
 
-<img loading="lazy" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
+<img loading="lazy" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" style="width:100px;"/>
 
 - 🌱  Estou aprendendo
 
