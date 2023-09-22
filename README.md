@@ -30,4 +30,4 @@
 
 ![Szaiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=dark)
 
-![Snake animation](https://github.com/Szaiago/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Szaiago/Szaiago/blob/output/github-contribution-grid-snake.svg)
