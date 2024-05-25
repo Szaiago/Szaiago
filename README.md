@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Szaiago! 👋</h1>
+<h1 align="center">Olá, Bem Vindo ao GitHub de Iago Souza! 👋</h1>
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando aprender algo novo e contribuir para projetos interessantes.
+Desenvolvedor aprendiz cursando Desenvolvimento de Sistamas no Senai, interessado em Front-End.
 
 ## Minhas Estatísticas no GitHub
 
@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szaiago&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub commit streak" width="50.6%">
 </p>
 
-## GitHub Activity Graph
+## GitHub Gráficos de Atividades
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
