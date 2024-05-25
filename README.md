@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Szaiago! 👋</h1>
 
-<p align="center" style="width: 100%;">
-  <img src="https://img.shields.io/github/followers/Szaiago?style=social" alt="GitHub followers" width="100%">
-  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Szaiago?style=social" alt="GitHub followers" width="49%">
+  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars" width="49%">
 </p>
 
 ## Sobre mim
@@ -19,9 +19,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 ## Redes Sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="mailto:szaiago@gmail.com"><img src="https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" width="32%"></a>
+  <a href="mailto:szaiago@gmail.com"><img src="https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="32%"></a>
+  <a href="https://instagram.com/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="32%"></a>
 </p>
 
 ## Animação da Cobra nos Commits
