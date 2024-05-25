@@ -11,7 +11,7 @@ Desenvolvedor aprendiz cursando Desenvolvimento de Sistamas no Senai, interessad
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szaiago&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub commit streak" width="50.6%">
 </p>
 
-## GitHub Gráficos de Atividades
+## GitHub Gráfico de Atividades
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
