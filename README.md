@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szaiago&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub commit streak" width="50.5%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szaiago&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub commit streak" width="50.6%">
 </p>
 
 ## Redes Sociais
@@ -35,11 +35,16 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 ## Curtir meu perfil do GitHub
 
 <p align="center">
-  <a href="https://github.com/Szaiago">
-    <img src="https://img.shields.io/badge/-Curtir-000?style=for-the-badge&logo=github" alt="Curtir">
+  <a href="https://github.com/Szaiago" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/followers/Szaiago?style=social&color=black" alt="Seguidores">
   </a>
+  &nbsp;
   <a href="https://github.com/Szaiago">
-    <img src="https://img.shields.io/badge/-Não%20Curtir-000?style=for-the-badge&logo=github" alt="Não Curtir">
+    <img src="https://github-buttons.s3.amazonaws.com/follow-button.html?user=Szaiago&type=follow&color=black" alt="Curtir">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Szaiago">
+    <img src="https://github-buttons.s3.amazonaws.com/follow-button.html?user=Szaiago&type=follow&color=black&count=true" alt="Não Curtir">
   </a>
 </p>
 
