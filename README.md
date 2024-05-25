@@ -1,4 +1,17 @@
-<h1 align="center">Olá, eu sou o Szaiago! 👋</h1>
+<h1 align="center">
+  <a href="#" id="title">Olá, eu sou o Szaiago! 👋</a>
+</h1>
+
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  #title {
+    animation: fadeIn 3s ease-in;
+  }
+</style>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Szaiago?style=social" alt="GitHub followers" width="49%">
