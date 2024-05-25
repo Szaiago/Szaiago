@@ -32,7 +32,7 @@ Desenvolvedor aprendiz cursando Desenvolvimento de Sistamas no Senai, interessad
 ## Redes Sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" height="40px"></a>
+  <a href="https://www.linkedin.com/in/iago-snd-souza/><img src="https://img.shields.io/badge/-Szaiago-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" height="40px"></a>
   <a href="mailto:szaiago@gmail.com"><img src="https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" height="40px"></a>
   <a href="https://instagram.com/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40px"></a>
 </p>
