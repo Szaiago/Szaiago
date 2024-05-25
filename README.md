@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 ## GitHub Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Szaiago&theme=dracula" alt="GitHub Activity Graph" width="100%">
+  <img src="https://github.com/Szaiago/Szaiago/blob/output/github-contribution-grid-snake.svg" alt="GitHub Activity Graph" width="100%">
 </p>
 
 ## Linguagens e Ferramentas
