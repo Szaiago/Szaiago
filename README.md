@@ -1,16 +1,8 @@
-<h1 id="title" align="center" style="opacity: 0; animation: fadeIn 3s ease-in;">
-  <a href="#">Olá, eu sou o Szaiago! 👋</a>
-</h1>
-
-<script>
-  setTimeout(() => {
-    document.getElementById('title').style.opacity = 1;
-  }, 100);
-</script>
+<h1 align="center">Olá, eu sou o Szaiago! 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Szaiago?style=social" alt="GitHub followers" width="49%">
-  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars" width="38%">
+  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars" width="49%">
 </p>
 
 ## Sobre mim
@@ -20,8 +12,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 ## Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=noctis_minimus&hide_border=true" alt="Szaiago's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=noctis_minimus&hide_border=true" alt="Top Langs" width="44%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=ambient_gradient&hide_border=true" alt="Top Langs" width="49%">
 </p>
 
 ## Redes Sociais
