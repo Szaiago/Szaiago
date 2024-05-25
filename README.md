@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szaiago&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub commit streak" width="50.5%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szaiago&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub commit streak" width="50%">
 </p>
 
 ## Redes Sociais
