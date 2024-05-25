@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Szaiago! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Szaiago?style=social" alt="GitHub followers" width="49%">
-  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars" width="38%">
+  <img src="https://img.shields.io/github/followers/Szaiago?style=social&color=black" alt="GitHub followers" width="49%">
+  <img src="https://img.shields.io/github/stars/Szaiago?style=social&color=black" alt="GitHub stars" width="38%">
 </p>
 
 ## Sobre mim
