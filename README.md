@@ -1,35 +1,41 @@
-<div>
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=szaiago&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szaiago&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+# Olá, eu sou o Szaiago! 👋
 
-<div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
-    
-  <h1 align="center">Redes Sociais</h1>
-    <a href="mailto:example@example.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href="https://www.linkedin.com/in/example">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href="https://www.youtube.com/example">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href="https://www.instagram.com/example">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-  
-![Snake animation](https://github.com/szaiago/szaiago/blob/output/github-contribution-grid-snake.svg)
+![GitHub followers](https://img.shields.io/github/followers/Szaiago?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Szaiago?style=social)
+
+## Sobre mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando aprender algo novo e contribuir para projetos interessantes.
+
+## Minhas Estatísticas no GitHub
+
+![Szaiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Redes Sociais
+
+[![Linkedin Badge](https://img.shields.io/badge/-Szaiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/szaiago/)](https://www.linkedin.com/in/szaiago/)
+[![Gmail Badge](https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:szaiago@gmail.com)](mailto:szaiago@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Szaiago-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/szaiago/)](https://instagram.com/szaiago/)
+
+## Animação da Cobra nos Commits
+
+![Snake animation](https://github.com/Szaiago/Szaiago/blob/output/github-contribution-grid-snake.svg)
+
+<!-- GitHub Activity Graph -->
+[![Szaiago's github activity graph](https://activity-graph.herokuapp.com/graph?username=Szaiago&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Linguagens e Ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+
+---
+
+_Fique à vontade para explorar meus repositórios e contribuir com o que puder!_
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Szaiago.Szaiago)](https://github.com/Szaiago)
