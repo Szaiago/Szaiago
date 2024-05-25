@@ -32,22 +32,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
   </a>
 </p>
 
-## Curtir meu perfil do GitHub
-
-<p align="center">
-  <a href="https://github.com/Szaiago" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/followers/Szaiago?style=social&color=black" alt="Seguidores">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Szaiago">
-    <img src="https://github-buttons.s3.amazonaws.com/follow-button.html?user=Szaiago&type=follow&color=black" alt="Curtir">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Szaiago">
-    <img src="https://github-buttons.s3.amazonaws.com/follow-button.html?user=Szaiago&type=follow&color=black&count=true" alt="Não Curtir">
-  </a>
-</p>
-
 ## Linguagens e Ferramentas
 
 <p align="center">
