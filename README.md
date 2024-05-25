@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=noctis_minimus&hide_border=true" alt="Szaiago's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=noctis_minimus&hide_border=true" alt="Top Langs" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=noctis_minimus&hide_border=true" alt="Top Langs" width="45%">
 </p>
 
 ## Redes Sociais
