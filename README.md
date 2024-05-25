@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=ambient_gradient&hide_border=true" alt="Top Langs" width="44%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szaiago&theme=ambient_gradient&hide_border=true" alt="Szaiago's GitHub commit streak" width="44%">
 </p>
 
 ## Redes Sociais
@@ -24,12 +24,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
   <a href="https://instagram.com/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## Animação da Cobra nos Commits
+## GitHub Activity Graph
 
-![Snake animation](https://github.com/Szaiago/Szaiago/blob/output/github-contribution-grid-snake.svg)
-
-<!-- GitHub Activity Graph -->
-[![Szaiago's github activity graph](https://activity-graph.herokuapp.com/graph?username=Szaiago&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Szaiago&theme=dracula" alt="GitHub Activity Graph" width="100%">
+</p>
 
 ## Linguagens e Ferramentas
 
