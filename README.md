@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Szaiago?style=social" alt="GitHub followers" width="49%">
-  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars" width="49%">
+  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars" width="38%">
 </p>
 
 ## Sobre mim
@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=noctis_minimus&hide_border=true" alt="Szaiago's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=noctis_minimus&hide_border=true" alt="Top Langs" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=noctis_minimus&hide_border=true" alt="Top Langs" width="38%">
 </p>
 
 ## Redes Sociais
