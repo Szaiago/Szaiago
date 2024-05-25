@@ -35,11 +35,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 ## Linguagens e Ferramentas
 
 <p align="center" style="display: flex;">
-  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&flex=1" alt="HTML5" width="25%">
-  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6&flex=1" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&flex=1" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&flex=1" alt="MySQL">
-  <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&flex=1" alt="PHP">
+  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&flex=1" alt="HTML5" width="20%">
+  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6&flex=1" alt="CSS3" width="20%">
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&flex=1" alt="JavaScript" width="20%">
+  <img src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&flex=1" alt="MySQL" width="20%">
+  <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&flex=1" alt="PHP" width="20%">
 </p>
 
 ---
