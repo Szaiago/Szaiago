@@ -27,7 +27,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 ## GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github.com/Szaiago/Szaiago/blob/output/github-contribution-grid-snake.svg" alt="GitHub Activity Graph" width="100%">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Szaiago" alt="GitHub Activity Graph" width="100%">
+  </a>
 </p>
 
 ## Linguagens e Ferramentas
