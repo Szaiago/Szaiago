@@ -1,7 +1,9 @@
-# Olá, eu sou o Szaiago! 👋
+<h1 align="center">Olá, eu sou o Szaiago! 👋</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/Szaiago?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Szaiago?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Szaiago?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Szaiago?style=social" alt="GitHub stars">
+</p>
 
 ## Sobre mim
 
@@ -9,15 +11,18 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 ## Minhas Estatísticas no GitHub
 
-![Szaiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=radical" alt="Szaiago's GitHub stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=radical" alt="Top Langs" width="49%">
+</p>
 
 ## Redes Sociais
 
-[![Linkedin Badge](https://img.shields.io/badge/-Szaiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/szaiago/)](https://www.linkedin.com/in/szaiago/)
-[![Gmail Badge](https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:szaiago@gmail.com)](mailto:szaiago@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Szaiago-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/szaiago/)](https://instagram.com/szaiago/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="mailto:szaiago@gmail.com"><img src="https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 ## Animação da Cobra nos Commits
 
@@ -28,14 +33,18 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 ## Linguagens e Ferramentas
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" alt="MySQL">
+  <img src="https://img.shields.io/badge/-PHP-000?&logo=PHP" alt="PHP">
+</p>
 
 ---
 
 _Fique à vontade para explorar meus repositórios e contribuir com o que puder!_
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Szaiago.Szaiago)](https://github.com/Szaiago)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Szaiago.Szaiago" alt="Visitors">
+</p>
