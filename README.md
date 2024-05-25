@@ -12,16 +12,16 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 ## Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=ambience&hide_border=true" alt="Szaiago's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=ambience&hide_border=true" alt="Top Langs" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=noctis_minimus&hide_border=true" alt="Szaiago's GitHub stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&theme=noctis_minimus&hide_border=true" alt="Top Langs" width="49%">
 </p>
 
 ## Redes Sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" width="32%"></a>
-  <a href="mailto:szaiago@gmail.com"><img src="https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="32%"></a>
-  <a href="https://instagram.com/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="32%"></a>
+  <a href="https://www.linkedin.com/in/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="mailto:szaiago@gmail.com"><img src="https://img.shields.io/badge/-szaiago@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/szaiago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ## Animação da Cobra nos Commits
