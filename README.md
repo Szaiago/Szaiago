@@ -37,11 +37,6 @@ Desenvolvedor aprendiz cursando Desenvolvimento de Sistamas no Senai, interessad
   <a href="https://www.instagram.com/sza_iago/"><img src="https://img.shields.io/badge/-Szaiago-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40px"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Szaiago?style=social&color=black" alt="GitHub followers" width="49%">
-  <img src="https://img.shields.io/github/stars/Szaiago?style=social&color=black" alt="GitHub stars" width="38%">
-</p>
-
 ---
 
 <p align="center">
